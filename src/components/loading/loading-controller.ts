@@ -128,4 +128,4 @@ export class LoadingController {
     return new Loading(this._app, opts, this.config);
   }
 
-}
+
